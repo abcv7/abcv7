@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abcv7
 - 👀 I’m interested in Python.
 - 🌱 I’m currently learning C++ , mysql and data structure.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...No cooperation to date.
 - 📫 How to reach me ...my phone nember +86 137******51
 
 <!---
